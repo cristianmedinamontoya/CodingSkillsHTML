@@ -1,0 +1,33 @@
+@import	"Column.css";
+@import	"Information.css";
+@import	"photos.css";
+
+body {
+	background-color: #222222;
+	box-sizing: border-box;
+}
+h1	{
+	color:white;
+	font-family: "bebas-kai", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 30px;
+    line-height: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+ul	{
+	color: rgb(136, 136, 136);
+	font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: none;
+    text-align: center;
+    padding-inline-start: 0px;
+}
+li  {
+    list-style-type: none;
+    padding: 0px 0px 20px;
+}
